@@ -99,7 +99,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/32212283
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
 #EXTINF:-1,tvg-id="4KUHD" tvg-name="4KUHD" tvg-logo="https://epg.112114.xyz/logo/4KU.png" group-title="4K",4KUHD
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1,tvg-id="苏州4k" tvg-name="苏州4k" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="4K",苏州4k
+#EXTINF:-1,tvg-id="4k频道" tvg-name="4k频道" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="4K",4k频道
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K",纯享4K
